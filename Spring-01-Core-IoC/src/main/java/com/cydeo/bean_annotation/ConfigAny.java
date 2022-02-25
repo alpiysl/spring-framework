@@ -17,6 +17,11 @@ public class ConfigAny {
         return 100;
     }
 
+//    @Bean
+//    String str2(){
+//        return "Java Developer";
+//    }
+
 
 }
 
