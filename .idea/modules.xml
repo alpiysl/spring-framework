@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-01-Core-IoC/Spring-01-Core-IoC.iml" filepath="$PROJECT_DIR$/Spring-01-Core-IoC/Spring-01-Core-IoC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-02-Core-Wiring/Spring-02-Core-Wiring.iml" filepath="$PROJECT_DIR$/Spring-02-Core-Wiring/Spring-02-Core-Wiring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-03-Core-DI/Spring-03-Core-DI.iml" filepath="$PROJECT_DIR$/Spring-03-Core-DI/Spring-03-Core-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-Abstraction/Spring-04-Abstraction.iml" filepath="$PROJECT_DIR$/Spring-04-Abstraction/Spring-04-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-Core-BeanScope/Spring-05-Core-BeanScope.iml" filepath="$PROJECT_DIR$/Spring-05-Core-BeanScope/Spring-05-Core-BeanScope.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-framework.iml" filepath="$PROJECT_DIR$/.idea/spring-framework.iml" />
     </modules>
   </component>
