@@ -7,10 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring-07-Spirng-MVC-Controller" />
         <module name="Spring-06-SpringBoot-Demo" />
         <module name="Spring-00-Coupling" />
         <module name="Spring-02-Core-Wiring" />
+        <module name="Spring-08-Spring-MVC-Model" />
         <module name="Spring-04-Abstraction" />
         <module name="Spring-01-Core-IoC" />
         <module name="Spring-03-Core-DI" />
@@ -27,6 +27,7 @@
       <module name="Spring-06-SpringBoot-Demo" target="11" />
       <module name="Spring-07-Spirng-MVC-Controller" target="11" />
       <module name="Spring-08-Spring-MVC-Controller" target="11" />
+      <module name="Spring-08-Spring-MVC-Model" target="11" />
       <module name="wrapper" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -35,6 +36,7 @@
       <module name="Spring-06-SpringBoot-Demo" options="-parameters" />
       <module name="Spring-07-Spirng-MVC-Controller" options="-parameters" />
       <module name="Spring-08-Spring-MVC-Controller" options="-parameters" />
+      <module name="Spring-08-Spring-MVC-Model" options="-parameters" />
     </option>
   </component>
 </project>

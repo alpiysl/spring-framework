@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
-    <output url="file://$MODULE_DIR$/target/classes" />
-    <output-test url="file://$MODULE_DIR$/target/test-classes" />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/../../Spring-08-Spring-MVC-Model/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../Spring-08-Spring-MVC-Model/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../Spring-08-Spring-MVC-Model">
+      <sourceFolder url="file://$MODULE_DIR$/../../Spring-08-Spring-MVC-Model/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Spring-08-Spring-MVC-Model/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Spring-08-Spring-MVC-Model/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Spring-08-Spring-MVC-Model/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
