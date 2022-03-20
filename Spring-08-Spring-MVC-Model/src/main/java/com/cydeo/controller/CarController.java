@@ -33,4 +33,10 @@ public class CarController {
         return "car/car-info";
     }
 
+    @RequestMapping("/info/{make}")
+    public String getCar2(@PathVariable String make, Model model) {
+        model.addAttribute("make", make);
+        return "car/car-info";
+    }
+
 }
