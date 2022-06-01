@@ -7,15 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring-06-SpringBoot-Demo" />
-        <module name="Spring-09-Spring-Thymleaf" />
         <module name="Spring-00-Coupling" />
         <module name="Spring-02-Core-Wiring" />
         <module name="Spring-08-Spring-MVC-Model" />
         <module name="Spring-04-Abstraction" />
         <module name="Spring-01-Core-IoC" />
         <module name="Spring-03-Core-DI" />
+        <module name="Spring-13-ORM-CinemaLabb" />
+        <module name="Spring-06-SpringBoot-Demo" />
+        <module name="Spring-14-ORM-Queeries" />
+        <module name="Spring-09-Spring-Thymleaf" />
+        <module name="Spring-10-ORM-TableCreate" />
         <module name="Spring-05-Core-BeanScope" />
+        <module name="Spring-11-ORM-Mappingg-OneToOne" />
+        <module name="Spring-12-ORM-Mappingg-OneToMany-ManyToMany" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +35,13 @@
       <module name="Spring-08-Spring-MVC-Controller" target="11" />
       <module name="Spring-08-Spring-MVC-Model" target="11" />
       <module name="Spring-09-Spring-Thymleaf" target="11" />
+      <module name="Spring-09.2-Spring-Thymleaf" target="17" />
+      <module name="Spring-10-ORM-TableCreate" target="11" />
+      <module name="Spring-11-ORM-Mappingg-OneToOne" target="11" />
+      <module name="Spring-12-ORM-Mappingg-OneToMany-ManyToMany" target="11" />
+      <module name="Spring-13-ORM-CinemaLabb" target="11" />
+      <module name="Spring-14-ORM-Quaries" target="17" />
+      <module name="Spring-14-ORM-Queeries" target="11" />
       <module name="wrapper" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -40,6 +52,11 @@
       <module name="Spring-08-Spring-MVC-Controller" options="-parameters" />
       <module name="Spring-08-Spring-MVC-Model" options="-parameters" />
       <module name="Spring-09-Spring-Thymleaf" options="-parameters" />
+      <module name="Spring-10-ORM-TableCreate" options="-parameters" />
+      <module name="Spring-11-ORM-Mappingg-OneToOne" options="-parameters" />
+      <module name="Spring-12-ORM-Mappingg-OneToMany-ManyToMany" options="-parameters" />
+      <module name="Spring-13-ORM-CinemaLabb" options="-parameters" />
+      <module name="Spring-14-ORM-Queeries" options="-parameters" />
     </option>
   </component>
 </project>

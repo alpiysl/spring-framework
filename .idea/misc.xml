@@ -13,6 +13,12 @@
         <option value="$PROJECT_DIR$/Spring-07-Spirng-MVC-Controller/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-09-Spring-Thymleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-09.2-Spring-Thymleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-10-ORM-TableCreate/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-11-ORM-Mappingg-OneToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-12-ORM-Mappingg-OneToMany-ManyToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-13-ORM-CinemaLabb/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-14-ORM-Queeries/pom.xml" />
       </list>
     </option>
   </component>

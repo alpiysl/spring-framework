@@ -12,6 +12,11 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-07-Spirng-MVC-Controller/Spring-07-Spirng-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-07-Spirng-MVC-Controller/Spring-07-Spirng-MVC-Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-Spring-MVC-Model/Spring-08-Spring-MVC-Model.iml" filepath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/Spring-08-Spring-MVC-Model.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-Spring-Thymleaf/Spring-09-Spring-Thymleaf.iml" filepath="$PROJECT_DIR$/Spring-09-Spring-Thymleaf/Spring-09-Spring-Thymleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-ORM-TableCreate/Spring-10-ORM-TableCreate.iml" filepath="$PROJECT_DIR$/Spring-10-ORM-TableCreate/Spring-10-ORM-TableCreate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-ORM-Mappingg-OneToOne/Spring-11-ORM-Mappingg-OneToOne.iml" filepath="$PROJECT_DIR$/Spring-11-ORM-Mappingg-OneToOne/Spring-11-ORM-Mappingg-OneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-12-ORM-Mappingg-OneToMany-ManyToMany/Spring-12-ORM-Mappingg-OneToMany-ManyToMany.iml" filepath="$PROJECT_DIR$/Spring-12-ORM-Mappingg-OneToMany-ManyToMany/Spring-12-ORM-Mappingg-OneToMany-ManyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-13-ORM-CinemaLabb/Spring-13-ORM-CinemaLabb.iml" filepath="$PROJECT_DIR$/Spring-13-ORM-CinemaLabb/Spring-13-ORM-CinemaLabb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-14-ORM-Queeries/Spring-14-ORM-Queeries.iml" filepath="$PROJECT_DIR$/Spring-14-ORM-Queeries/Spring-14-ORM-Queeries.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-framework.iml" filepath="$PROJECT_DIR$/.idea/spring-framework.iml" />
     </modules>
   </component>
